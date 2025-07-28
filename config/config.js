@@ -13,19 +13,19 @@
 
 const chatConfig = {
   flowURL:
-    "https://api.zerowidth.ai/v1/process/UvxlzCFXzR3aAgvsD8Nf/QDcqFRhjjrjZUTHsvxWX",
+    "https://api.zerowidth.ai/v1/process/Vmz10LAZf8lTw58SCESp",
   header: {
-    title: "Chat with ELIZA",
+    title: "Mary - Your Guide to Women in Computing",
     description:
-      "Greetings, I am a draft clone of ELIZA running the DOCTOR script. HOW DO YOU DO. PLEASE STATE YOUR PROBLEM.",
+      "I am Mary, a computer docent and I have witnessed it all throughout the 20th century -  the amazing contributions made by women to the field of computing! AND! I am here to share it all with you! Ask away!",
   },
-  suggestedPromptsTitle: "Here are some suggested prompts.",
+  suggestedPromptsTitle: "Welcome! I am Mary, a computer docent and your one and only witness to the entire history of computing and women's contribution to it! Ask away!",
   suggestedPrompts: [
-    "I spend too much time with computers.",
-    "I feel overwhelmed trying to keep up with AI trends.",
-    "I am anxious about the future.",
+    "Make me a calling card of Lady Ada Lovelace?",
+    "Why should I care about women in computing?",
+    "Tell me about female computers in the 1980’s?",
   ],
-  chatInputPlaceholder: "Chat with this agent...",
+  chatInputPlaceholder: "Chat with me!",
   maxChatHeight: 400,
 };
 
